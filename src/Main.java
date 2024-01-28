@@ -14,8 +14,8 @@ public class Main {//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
             bonus = 0;
         }
         
-        int sumBalance = balance + amount + bonus;
+        int summary = balance + amount + bonus;
 
-        System.out.println("Общий баланс: " + sumBalance);
+        System.out.println("Общий баланс: " + summary);
     }
 }
